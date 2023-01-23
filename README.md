@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World :) </h1>
+<h1 align="center"> TERIMA KASIH SEMUA NYA,GOOD BYE </h1>
 <p align="center">
 •●•
 </p>
@@ -7,7 +7,7 @@
 <img src="https://giffiles.alphacoders.com/120/120248.gif">
 </p>
 <p align="center">
-<i> <b> FUCK 🖕 LOL ! </b> </i>
+<i> <b> GOOD BYE ALL </b> </i>
 </p
 
 #
